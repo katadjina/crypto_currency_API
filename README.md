@@ -7,7 +7,7 @@ Projects using live cryptocurrency data from CoinMarketCap crypto API.
 
 Example:
 
-Retrieving updated data regarding our wallet:
+Retrieving updated data regarding our wallet (user cryptocurrency&amount saved in a csv file):
 
 MY PORTFOLIO
 
